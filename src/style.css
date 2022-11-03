@@ -1,0 +1,151 @@
+.main {
+  background: #cdd5ed;
+}
+
+.container {
+  font-family: "Montserrat", sans-serif;
+  background: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: block;
+  box-shadow: 0px 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  color: #272142;
+}
+.card {
+  margin-top: 13px;
+  background-color: #e2f8ff;
+  border-radius: 16px;
+}
+.card-footer {
+  background-color: #ddf0f7;
+}
+.card-body {
+  background-color: #ecfaff;
+}
+
+.card-body1 {
+  text-align: center;
+  margin-top: 13px;
+}
+
+.card-title {
+  font-size: 16px;
+}
+.card-footer {
+  text-align: center;
+}
+
+li {
+  font-size: 16px;
+}
+
+.icon {
+  font-size: 50px;
+}
+.temperature {
+  font-size: 45px;
+  font-weight: 600;
+}
+.units {
+  font-size: 20px;
+  font-weight: 400;
+}
+.row g-3 first {
+  margin-top: 13px;
+}
+
+.clouds {
+  background-image: url(https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2022-03/cirrus_clouds_aspot_pxhere.jpg?h=d1cb525d&itok=eNG9Z-Fc);
+  width: 100%;
+  height: 100px;
+  border-radius: 5px;
+}
+
+.clouds-weather {
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 5px;
+  text-align: center;
+}
+
+.today-forecast,
+.today-city,
+.next-days {
+  font-weight: 500;
+  font-size: 16px;
+  margin-left: 3px;
+  color: #272142;
+}
+
+.weather-app {
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 0.5rem;
+  color: #085ed6;
+}
+
+.search-city {
+  margin-top: 0.8rem;
+}
+
+.search-btn {
+  margin-top: 0.6rem;
+}
+
+.location-btn {
+  margin-top: 0.6rem;
+}
+
+.btn-primary {
+  margin-left: 3px;
+}
+
+.author {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.active {
+  color: black;
+  cursor: default;
+  text-decoration: none;
+}
+
+.active-two {
+  text-decoration: none;
+}
+
+.active-two:hover {
+  text-decoration: none;
+}
+
+.active:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.weather-forecast-date {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.weather-forecast-temperatures {
+  text-align: center;
+}
+
+.weather-forecast-temperatures-max {
+  font-size: 19px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.weather-forecast-temperatures-min {
+  text-align: center;
+  font-size: 15px;
+  opacity: 0.6;
+}
